@@ -19,6 +19,7 @@ This includes:
 - Reactive and non-reactive Molecular Dynamics simulations using ReaxFF and Gromacs.
 - Quantum chemistry methods for electronic structure calculations like DFT and CC.
 - Development of multiscale QM/MM models.
+- Optimization of numerical schemes for the solution of complex systems of equations.
 
 ## 🛠 Skills
 
