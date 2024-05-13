@@ -23,14 +23,15 @@ This includes:
 
 ## 🛠 Skills
 
-- **Programming Languages:** Advanced proficiency in C++, Python, and Fortran.
-- **Software Development:** Proficient in developing highly parallelized multi-thread and multi-process scientific codes.
-- **Tools:** Experienced user of HPC centers and developer of software for both commercial (Software for Chemistry & Materials - SCM) and research purposes (nanoFQ).
+- **Programming Languages:** Advanced proficiency in Python, and Fortran.
+- **Software Development:** Developer of software for both commercial (Software for Chemistry & Materials - SCM) and research purposes (nanoFQ)
+- **Code optimization and Parallelization:** Proficient in developing highly parallelized multi-thread and multi-process scientific codes.
+- **Tools:** Experienced user of High Performance Computing (HPC) centers
 
 ## 📚 Education
 
 - **Ph.D., Computational Chemistry,** Scuola Normale Superiore, Nov 2020 - Nov 2024.
-- **M.Sc. & B.Sc., Engineering Physics,** Politecnico di Milano, Graduated with Full Marks.
+- **M.Sc. & B.Sc., Engineering Physics,** Politecnico di Milano, Graduated with Full Marks, specialization in semiconductor nanotechnologies.
 
 ## 🗣️ Presentations and Publications
 
