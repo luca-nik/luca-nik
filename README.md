@@ -46,12 +46,10 @@ This includes:
 ##
 
 <details>
-  <summary> **My Alpinist Adventures**</summary>
+  <summary> My Mountaineering Adventures</summary>
   
 Ok all this was quite boring, I know. 
-Outside of my academic activity I am also a passionate alpinist.
+Outside of my academic activity I am also a passionate alpinist, with more than 60 alpine climbs on the record.
 
-  
-  ![Mountain](link-to-mountain-image.jpg) <!-- If you want to include images -->
 
 </details>
