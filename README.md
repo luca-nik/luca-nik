@@ -1,6 +1,6 @@
 # Luca Nicoli
 
-Welcome to my GitHub! I'm Luca, a Computational Chemistry Ph.D. student at Scuola Normale Superiore with a strong background in Physics Engineering from Politecnico di Milano. 
+Hi, I'm Luca, a Computational Chemistry Ph.D. student at Scuola Normale Superiore with a strong background in Physics Engineering from Politecnico di Milano. 
 I specialize in developing multiscale atomistic models and integrating new modeling solutions into both existing commercial software and new in-house developments.
 
 ## 📫 Contact
@@ -43,5 +43,15 @@ This includes:
 
 - Teaching assistant in the course "Advanced Topics in Quantum Chemistry," Prof. Chiara Cappelli, 2023.
 
-Feel free to reach out for collaborations or any queries related to my research and projects. Thank you for visiting my profile!
+##
 
+<details>
+  <summary> **My Alpinist Adventures**</summary>
+  
+Ok all this was quite boring, I know. 
+Outside of my academic activity I am also a passionate alpinist.
+
+  
+  ![Mountain](link-to-mountain-image.jpg) <!-- If you want to include images -->
+
+</details>
