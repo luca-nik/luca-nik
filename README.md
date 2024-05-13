@@ -47,6 +47,7 @@ This includes:
 
 <details>
   <summary> My Mountaineering Adventures</summary>
+
   
 Ok all this was quite boring, I know. 
 Outside of my academic activity I am also a passionate alpinist, with more than 60 alpine climbs on the record.
