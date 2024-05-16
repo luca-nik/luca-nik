@@ -8,6 +8,7 @@ I specialize in developing multiscale atomistic models and integrating new model
 - **Email:** luca.nicoli.engineer@gmail.com
 - **LinkedIn:** [luca-nicoli](http://www.linkedin.com/in/luca-nicoli)
 - **ORCID:** [0000-0002-4808-3381](https://orcid.org/0000-0002-4808-3381)
+- **Scholar** [Luca Nicoli](https://scholar.google.it/citations?user=SsTwaqEAAAAJ&hl=it)
 - **Phone:** +39-331-7465512
 - **Address:** 16 via del Marmigliaio, Pisa, PI
 
