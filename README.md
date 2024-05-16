@@ -48,7 +48,8 @@ This includes:
 <details>
   <summary> 🧗🏼 My Mountaineering Adventures</summary>
   <br><br>
-  Ok all this was quite boring
+  Ok all this was quite boring..
+  <br>
   Outside of my professional life, I am a passionate alpinist with more than 60 alpine climbs on record. 
   The mountains help me put life's problems into perspective and face them in a calm and pragmatic way.
 
