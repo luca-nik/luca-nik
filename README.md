@@ -54,9 +54,17 @@ This includes:
 ### My Climbing Adventures
 Below are some photos from my climbs:
 <div>
-    <img src="https://github.com/nicoli-luca/nicoli-luca/blob/main/images/IMG_20230713_192947_840.jpg" width="200", alt="On the summit of the Dent du Geant on the Mont Blanc Massif, 4013 slm">
+    <img src="https://github.com/nicoli-luca/nicoli-luca/blob/main/images/IMG_20230713_192947_840.jpg" width="300", alt="On the summit of the Dent du Geant on the Mont Blanc Massif, 4013 slm">
   <div style="text-align: center;"> On the summit of the Dent du Geant 
-   on the Mont Blanc Massif, 4013 slm</div>
+   on the Mont Blanc Massif, 4013 slm (2023)</div>
 </div>
 <br><br>
-
+<div>
+    <img src="https://github.com/nicoli-luca/nicoli-luca/blob/main/images/IMG-20220724-WA0060.jpg" width="300", alt="">
+  <div style="text-align: center;"> Me climbing one of the central pitches of the great north face of the Pizzo d'Uccello (2022)</div>
+</div>
+<br><br>
+<div>
+    <img src="" width="300", alt="">
+  <div style="text-align: center;"></div>
+</div>
