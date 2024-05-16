@@ -51,10 +51,11 @@ This includes:
   Ok all this was quite boring..
   <br>
   Outside of my professional life, I am a passionate alpinist with more than 60 alpine climbs on record. 
+  <br>
   The mountains help me put life's problems into perspective and face them in a calm and pragmatic way.
 
 <br><br>
-Below are some photos from my climbs:
+Below are some photos I like from my climbs:
 <div>
     <img src="https://github.com/nicoli-luca/nicoli-luca/blob/main/images/IMG_20230713_192947_840.jpg" width="300", alt="On the summit of the Dent du Geant on the Mont Blanc Massif, 4013 slm">
   <div style="text-align: center;"> On the summit of the Dent du Geant 
