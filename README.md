@@ -46,13 +46,13 @@ This includes:
 ##
 
 <details>
-  <summary> My Mountaineering Adventures</summary>
+  <summary> 🧗🏼 My Mountaineering Adventures</summary>
   <br><br>
   Ok all this was quite boring
   Outside of my professional life, I am a passionate alpinist with more than 60 alpine climbs on record. 
   The mountains help me put life's problems into perspective and face them in a calm and pragmatic way.
 
-### My Climbing Adventures
+<br><br>
 Below are some photos from my climbs:
 <div>
     <img src="https://github.com/nicoli-luca/nicoli-luca/blob/main/images/IMG_20230713_192947_840.jpg" width="300", alt="On the summit of the Dent du Geant on the Mont Blanc Massif, 4013 slm">
