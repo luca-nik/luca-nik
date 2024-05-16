@@ -53,7 +53,10 @@ This includes:
 
 ### My Climbing Adventures
 Below are some photos from my climbs:
+<div>
+    <img src="https://github.com/nicoli-luca/nicoli-luca/blob/main/images/IMG_20230713_192947_840.jpg" width="200", alt="On the summit of the Dent du Geant on the Mont Blanc Massif, 4013 slm">
+  <div style="text-align: center;"> On the summit of the Dent du Geant 
+   on the Mont Blanc Massif, 4013 slm</div>
+</div>
+<br><br>
 
-
-
-</details>
