@@ -69,5 +69,5 @@ Below are some photos I like from my climbs:
 <br><br>
 <div>
     <img src="https://github.com/nicoli-luca/nicoli-luca/blob/main/images/20240216_102812(1).jpg" width="300", alt="">
-  <div style="text-align: center;">On the second pitch of the "Sword of Damocles" ice waterfall</div>
+  <div style="text-align: center;">On the second pitch of the "Sword of Damocles" ice waterfall (2024)</div>
 </div>
