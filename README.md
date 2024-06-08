@@ -53,7 +53,7 @@ This includes:
   <br>
   Outside of my professional life, I am a passionate alpinist with more than 60 alpine climbs on record. 
   <br>
-  The mountains help me put life's problems into perspective and face them in a calm and pragmatic way.
+  The mountains help me put life's problems into perspective :)
 
 <br><br>
 Below are some photos I like from my climbs:
