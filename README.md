@@ -1,6 +1,6 @@
 # Luca
 
-Hi, I'm Luca, a Computational Chemistry Ph.D. student at Scuola Normale Superiore with a strong background in Physics Engineering from Politecnico di Milano. 
+Hi, I'm Luca, a Computational Chemistry Ph.D. candidate with a strong background in Physics Engineering. 
 I specialize in developing multiscale atomistic models and integrating new modeling solutions into both existing commercial software and new in-house developments.
 
 ## 🔬 Research and Development
@@ -22,8 +22,8 @@ This includes:
 
 ## 📚 Education
 
-- **Ph.D., Computational Chemistry,** Scuola Normale Superiore, Nov 2020 - Nov 2024.
-- **M.Sc. & B.Sc., Engineering Physics,** Politecnico di Milano, Graduated with Full Marks, specialization in semiconductor nanotechnologies.
+- **Ph.D., Computational Chemistry,** 
+- **M.Sc. & B.Sc., Engineering Physics,**, full marks.
 
 ## 🗣️ Presentations and Publications
 
@@ -33,7 +33,7 @@ This includes:
 
 ## 🎓 Teaching
 
-- Teaching assistant in the course "Advanced Topics in Quantum Chemistry," Prof. Chiara Cappelli, 2023.
+- Teaching assistant in the course "Advanced Topics in Quantum Chemistry" in 2023.
 
 ##
 
