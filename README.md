@@ -22,8 +22,8 @@ This includes:
 
 ## 📚 Education
 
-- **Ph.D., Computational Chemistry,** 
-- **M.Sc. & B.Sc., Engineering Physics,**, full marks.
+- **Ph.D., Computational Chemistry** 
+- **M.Sc. & B.Sc., Engineering Physics**, full marks.
 
 ## 🗣️ Presentations and Publications
 
@@ -49,17 +49,12 @@ This includes:
 <br><br>
 Below are some photos I like from my climbs:
 <div>
-    <img src="https://github.com/nicoli-luca/nicoli-luca/blob/main/images/IMG_20230713_192947_840.jpg" width="300", alt="On the summit of the Dent du Geant on the Mont Blanc Massif, 4013 slm">
+    <img src="https://github.com/luca-nik/luca/blob/main/images/IMG_20230713_192947_840.jpg" width="300", alt="On the summit of the Dent du Geant on the Mont Blanc Massif, 4013 slm">
   <div style="text-align: center;"> On the summit of the Dent du Geant 
    on the Mont Blanc Massif, 4013 slm (2023)</div>
 </div>
 <br><br>
 <div>
-    <img src="https://github.com/nicoli-luca/nicoli-luca/blob/main/images/IMG-20220724-WA0060.jpg" width="300", alt="">
-  <div style="text-align: center;"> Me climbing one of the central pitches of the great north face of the Pizzo d'Uccello (2022)</div>
-</div>
-<br><br>
-<div>
-    <img src="https://github.com/nicoli-luca/nicoli-luca/blob/main/images/20240216_102812(1).jpg" width="300", alt="">
+    <img src="https://github.com/luca-nik/luca/blob/main/images/20240216_102812(1).jpg" width="300", alt="">
   <div style="text-align: center;">On the second pitch of the "Sword of Damocles" ice waterfall (2024)</div>
 </div>
