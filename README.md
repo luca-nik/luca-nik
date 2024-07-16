@@ -1,4 +1,4 @@
-# Luca Nicoli
+# Luca
 
 Hi, I'm Luca, a Computational Chemistry Ph.D. student at Scuola Normale Superiore with a strong background in Physics Engineering from Politecnico di Milano. 
 I specialize in developing multiscale atomistic models and integrating new modeling solutions into both existing commercial software and new in-house developments.
