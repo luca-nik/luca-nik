@@ -1,6 +1,6 @@
 # Luca
 
-Hi, I'm Luca, a Computational Chemistry Ph.D. candidate with a strong background in Physics Engineering. 
+Hi, I'm Luca, a Theoretical and Computational Chemistry Ph.D. candidate with a strong background in Physics and Engineering. 
 I specialize in developing multiscale atomistic models and integrating new modeling solutions into both existing commercial software and new in-house developments.
 
 ## 🔬 Research and Development
