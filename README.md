@@ -15,7 +15,7 @@ This includes:
 
 ## 🛠 Skills
 
-- **Programming Languages:** Advanced proficiency in Python, and Fortran.
+- **Programming Languages:** Advanced proficiency in Python.
 - **Software Development:** Developer of software for both commercial (Software for Chemistry & Materials - SCM) and research purposes (nanoFQ)
 - **Code optimization and Parallelization:** Proficient in developing highly parallelized multi-thread and multi-process scientific codes.
 - **Tools:** Experienced user of High Performance Computing (HPC) centers
