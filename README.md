@@ -4,7 +4,7 @@ Hi, I'm Luca, a Theoretical and Computational Chemistry Ph.D. candidate with a s
 
 ## 🔬 Research and Development
 
-My research activity focuses on the theoretical development and practical application of multiscale atomistic models to simulate the physical properties of complex materials. 
+My research focuses on the theoretical development and practical application of multiscale atomistic models to simulate the physical properties of complex materials. 
 This includes:
 
 - Reactive and non-reactive Molecular Dynamics simulations using ReaxFF and Gromacs.
@@ -17,22 +17,22 @@ This includes:
 - **Programming Languages:** Advanced proficiency in Python.
 - **Software Development:** Developer of scientific software for both commercial and research purposes
 - **Code optimization and Parallelization:** Proficient in developing highly parallelized multi-thread and multi-process scientific codes.
-- **Tools:** Experienced user of High Performance Computing (HPC) centers
+- **Tools:** Experienced user of High-Performance Computing (HPC) centers
 
 ## 📚 Education
 
-- **Ph.D., Computational Chemistry** 
+- **Ph.D., Theoretical & Computational Chemistry** 
 - **M.Sc. & B.Sc., Engineering Physics**, full marks.
 
 ## 🗣️ Presentations and Publications
 
-- **6** articles in peer-reviewed journals.
+- **8** articles in peer-reviewed journals.
 - **3** oral contributions at international scientific conferences.
 - **1** Italian National and International patent pending.
 
 ## 🎓 Teaching
 
-- Teaching assistant in the course "Advanced Topics in Quantum Chemistry" in 2023.
+- Teaching assistant in the "Advanced Topics in Quantum Chemistry" course in 2023.
 
 ##
 
