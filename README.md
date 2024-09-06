@@ -1,16 +1,13 @@
-# Luca
+# Hi
 
-Hi, I'm Luca, a Theoretical and Computational Chemistry Ph.D. candidate with a strong background in Physics and Engineering.
+Hi, I'm Luca.
+MSc Physics engineer -> PhD Computational & Theoretical Chemistry -> ... Web3 developer.
 
-## 🔬 Research and Development
 
-My research focuses on the theoretical development and practical application of multiscale atomistic models to simulate the physical properties of complex materials. 
-This includes:
+## 🔬 Scientific Research
 
-- Reactive and non-reactive Molecular Dynamics simulations using ReaxFF and Gromacs.
-- Quantum chemistry methods for electronic structure calculations like DFT and CC.
-- Development of multiscale QM/MM models.
-- Optimization of numerical schemes for the solution of complex systems of equations.
+My research focused on the theoretical development of multiscale atomistic models to simulate the physical properties of complex materials. 
+
 
 ## 🛠 Skills
 
@@ -28,7 +25,7 @@ This includes:
 
 - **8** articles in peer-reviewed journals.
 - **3** oral contributions at international scientific conferences.
-- **1** Italian National and International patent pending.
+- **1** Italian National patent.
 
 ## 🎓 Teaching
 
