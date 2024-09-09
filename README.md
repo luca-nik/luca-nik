@@ -1,18 +1,31 @@
-# Hi
+# Hi 👋
 
-Hi, I'm Luca.
-MSc Physics engineer -> PhD Computational & Theoretical Chemistry -> ... Web3 developer.
+I'm Luca.
 
+I'm a Physics Engineer, and PhD candidate in Theoretical & Computational Chemistry.
 
-## 🔬 Scientific Research
+I am currently working on Web3 development 🚀.
 
-My research focused on the theoretical development of multiscale atomistic models to simulate the physical properties of complex materials. 
+## Something about me 🤔
+
+I'm curious 🙂.
+
+I've been in academia for quite some time, from early experiments frying molecules with ultrafast lasers to getting hyped seeing hundreds of CPUs grinding Quantum Mechanical simulations. 
+
+Blockchain technology hooked me, and now I want to build! 
+
+## My interests 🎯
+
+Network theory is a blast! I'm very interested in Web3 applications that can be formalized with it.
+
+Routing algorithms for optimal trade execution and intents matching for users' MEV protection are just some of the areas I'm currently working on.
+
+Check some of my repos out ...
 
 
 ## 🛠 Skills
 
-- **Programming Languages:** Advanced proficiency in Python.
-- **Software Development:** Developer of scientific software for both commercial and research purposes
+- **Software Development:** Developer of commercial and academic-oriented software
 - **Code optimization and Parallelization:** Proficient in developing highly parallelized multi-thread and multi-process scientific codes.
 - **Tools:** Experienced user of High-Performance Computing (HPC) centers
 
