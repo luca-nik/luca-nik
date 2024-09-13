@@ -4,7 +4,7 @@ I'm Luca.
 
 I'm a Physics Engineer, and PhD candidate in Theoretical & Computational Chemistry.
 
-I am currently working on Web3 development 🚀.
+Currently Web3 developer 🚀.
 
 ## Something about me 🤔
 
