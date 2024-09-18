@@ -2,7 +2,7 @@
 
 I'm Luca.
 
-I'm a Physics Engineer, and PhD candidate in Theoretical & Computational Chemistry.
+I'm a Physics Engineer and PhD candidate in Theoretical & Computational Chemistry.
 
 Currently Web3 developer 🚀.
 
