@@ -4,7 +4,7 @@ I'm Luca.
 
 I'm a Physics Engineer and PhD candidate in Theoretical & Computational Chemistry.
 
-MEV Scientist Engineer @ [Urani.trade](https://www.urani.trade/).
+MEV Scientist Engineer in the Team Agents at [Urani](https://github.com/urani-trade).
 
 Currently Web3 developer 🚀.
 
@@ -22,7 +22,7 @@ Network theory is a blast! I'm very interested in Web3 applications that can be 
 
 Routing algorithms for optimal trade execution and intents matching for users' MEV protection are just some of the areas I'm currently working on.
 
-Check some of my repos out ...
+[Read some of Urani's Team Agents's posts](https://www.urani.trade/blog)
 
 
 ## 🛠 Skills
