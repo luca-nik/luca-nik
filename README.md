@@ -4,6 +4,8 @@ I'm Luca.
 
 I'm a Physics Engineer and PhD candidate in Theoretical & Computational Chemistry.
 
+MEV Scientist Engineer @ [Urani.trade](https://www.urani.trade/).
+
 Currently Web3 developer 🚀.
 
 ## Something about me 🤔
