@@ -44,7 +44,7 @@ Routing algorithms for optimal trade execution and intents matching for users' M
 
 ## 🎓 Teaching
 
-- Teaching assistant in the "Advanced Topics in Quantum Chemistry" course in 2023.
+- Teaching assistant in the "Advanced Topics in Quantum Chemistry" course.
 
 ##
 
