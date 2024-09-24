@@ -34,7 +34,7 @@ Routing algorithms for optimal trade execution and intents matching for users' M
 ## 📚 Education
 
 - **PhD, Theoretical & Computational Chemistry** 
-- **MS & BS, Engineering Physics**.
+- **MS & BS, Engineering Physics**
 
 ## 🗣️ Presentations and Publications
 
