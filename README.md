@@ -22,7 +22,7 @@ Network theory is a blast! I'm very interested in Web3 applications that can be 
 
 Routing algorithms for optimal trade execution and intents matching for users' MEV protection are just some of the areas I'm currently working on.
 
-[Read some of Urani's Team Agents's posts](https://www.urani.trade/blog)
+[Read some of the post I contributed in the Team Agents at Urani](https://www.urani.trade/blog)
 
 
 ## 🛠 Skills
