@@ -8,7 +8,7 @@ Previously MEV Scientist Engineer in the Team Agents at [Urani](https://github.c
 
 Currently looking for a role as Web3 developer 🚀.
 
-## Something about me 🤔
+## Something about me 
 
 I'm curious 🙂.
 
