@@ -40,7 +40,10 @@ Routing algorithms for optimal trade execution and intents matching for users' M
 
 - **8** articles in peer-reviewed journals.
 - **3** oral contributions at international scientific conferences.
-- **1** Italian National patent.
+
+## Achievements
+- **1** Italian National **patent**:  .
+- **Founder** of [MatTwins](https://sites.google.com/view/matwins/home), an initiative focused on leveraging surrogate machine learning models to reduce computational complexity in molecular and materials modeling simulations, aiming to revolutionize the discovery and design of new materials for sustainable industry.
 
 ## 🎓 Teaching
 
