@@ -4,7 +4,7 @@ I'm Luca.
 
 I'm a Physics Engineer and PhD candidate in Theoretical & Computational Chemistry.
 
-Previously MEV Scientist Engineer in the Team Agents at [Urani](https://github.com/urani-trade).
+Previously [MEV Scientist Engineer](https://www.urani.trade/blog/godspeed) in the Team Agents at [Urani](https://github.com/urani-trade).
 
 Currently looking for a role as Web3 developer 🚀.
 
@@ -38,11 +38,11 @@ Routing algorithms for optimal trade execution and intents matching for users' M
 
 ## 🗣️ Presentations and Publications
 
-- **8** articles in peer-reviewed journals.
+- [**8** articles in peer-reviewed journals](https://scholar.google.com/citations?user=SsTwaqEAAAAJ&hl=en&oi=ao).
 - **3** oral contributions at international scientific conferences.
 
 ## 🎯 Achievements
-- **1** Italian National **patent**.
+- [**1** Italian National **patent**](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2024033744&_cid=P12-M5QLKW-67125-1).
 - **Founder** of [MatTwins](https://sites.google.com/view/matwins/home), an initiative focused on leveraging surrogate machine learning models to reduce computational complexity in molecular and materials modeling simulations, aiming to revolutionize the discovery and design of new materials for sustainable industry.
 
 ## 🎓 Teaching
