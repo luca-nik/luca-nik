@@ -25,12 +25,6 @@ Routing algorithms for optimal trade execution and intents matching for users' M
 [Read some of the post I contributed in the Team Agents at Urani](https://www.urani.trade/blog)
 
 
-## 🛠 Skills
-
-- **Software Development:** Developer of commercial and academic-oriented software
-- **Code optimization and Parallelization:** Proficient in developing highly parallelized multi-thread and multi-process scientific codes.
-- **Tools:** Experienced user of High-Performance Computing (HPC) centers
-
 ## 📚 Education
 
 - **PhD, Theoretical & Computational Chemistry** 
@@ -44,8 +38,3 @@ Routing algorithms for optimal trade execution and intents matching for users' M
 ## 🎯 Achievements
 - [**1** Italian National **patent**](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2024033744&_cid=P12-M5QLKW-67125-1).
 - **Founder** of [MatTwins](https://sites.google.com/view/matwins/home), an initiative focused on leveraging surrogate machine learning models to reduce computational complexity in molecular and materials modeling simulations, aiming to revolutionize the discovery and design of new materials for sustainable industry.
-
-## 🎓 Teaching
-
-- Teaching assistant in the "Advanced Topics in Quantum Chemistry" course at Scuola Normale Superiore back in 2022.
-
