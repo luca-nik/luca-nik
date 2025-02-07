@@ -4,7 +4,7 @@ I'm Luca.
 
 I'm a Physics Engineer and PhD candidate in Theoretical & Computational Chemistry.
 
-Previously [MEV Scientist Engineer](https://www.urani.trade/blog/godspeed) in the Team Agents at [Urani](https://github.com/urani-trade).
+Previously [MEV Scientist Engineer](https://www.urani.trade/blog/godspeed) in the Team Agents at [Urani.trade](https://github.com/urani-trade).
 
 Currently looking for a role as Web3 developer 🚀.
 
@@ -20,9 +20,11 @@ Blockchain technology hooked me, and now I want to build!
 
 Network theory is a blast! I'm very interested in Web3 applications that can be formalized with it.
 
-Routing algorithms for optimal trade execution and intents matching for users' MEV protection are just some of the areas I'm currently working on.
+Routing algorithms for optimal trade execution and intents matching for users' MEV protection are just some of the areas I'm currently working on: [read some of the post I contributed in the Team Agents at Urani.trade](https://www.urani.trade/blog).
 
-[Read some of the post I contributed in the Team Agents at Urani](https://www.urani.trade/blog)
+Read about some of my contributions to the Web3 ecosystem on my [Blog](https://naiky.vercel.app/web3).
+
+[**Currently studying Large Language Model Agents**](https://rdi.berkeley.edu/llm-agents/f24)
 
 
 ## 📚 Education
