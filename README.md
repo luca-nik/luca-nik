@@ -2,11 +2,9 @@
 
 I'm Luca.
 
-I'm a Physics Engineer and PhD candidate in Theoretical & Computational Chemistry.
+I'm a Physics Engineer and PhD in Theoretical & Computational Chemistry.
 
 Previously [MEV Scientist Engineer](https://www.urani.trade/blog/godspeed) in the Team Agents at [Urani.trade](https://github.com/urani-trade).
-
-Currently looking for a role as Web3 developer 🚀.
 
 ## Something about me 
 
