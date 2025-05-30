@@ -1,34 +1,21 @@
-# Hi 👋 
+# Hi there 👋 
 
-I'm Luca.
+I'm Luca — a Research Scientist at [CryptoEconLab](https://cryptoeconlab.com/)
 
-I'm a Physics Engineer and PhD in Theoretical & Computational Chemistry.
+I hold a PhD in Theoretical & Computational Chemistry and a background in Engineering Physics.
 
-Previously [MEV Scientist Engineer](https://www.urani.trade/blog/godspeed) in the Team Agents at [Urani.trade](https://github.com/urani-trade).
+Previously, I worked as an [MEV Scientist Engineer](https://www.urani.trade/blog/godspeed) with the Team Agents at [Urani.trade](https://github.com/urani-trade), building intent-based infrastructure for fairer and more efficient decentralized markets.
 
-## Something about me 
+## About me 
 
-I'm curious 🙂.
+I come from a scientific background: from early experiments frying molecules with ultrafast lasers to getting hyped seeing hundreds of CPUs grinding Quantum Mechanical simulations. 
 
-I've been in academia for quite some time, from early experiments frying molecules with ultrafast lasers to getting hyped seeing hundreds of CPUs grinding Quantum Mechanical simulations. 
+After years in academia, I got hooked by the potential of blockchain technology.
 
-Blockchain technology hooked me, and now I want to build! 
+At [Urani.trade](https://github.com/urani-trade), I explored routing algorithms for optimal trade execution and intent-based systems to protect users from toxic MEV — [here are a few things I wrote with Team Agents](https://www.urani.trade/blog).
 
-## My interests
-
-Network theory is a blast! I'm very interested in Web3 applications that can be formalized with it.
-
-Routing algorithms for optimal trade execution and intents matching for users' MEV protection are just some of the areas I'm currently working on: [read some of the post I contributed in the Team Agents at Urani.trade](https://www.urani.trade/blog).
-
-Read about some of my contributions to the Web3 ecosystem on my [Blog](https://naiky.vercel.app/web3).
-
-[**Currently studying Large Language Model Agents**](https://rdi.berkeley.edu/llm-agents/f24)
-
-
-## 📚 Education
-
-- **PhD, Theoretical & Computational Chemistry** 
-- **MS & BS, Engineering Physics**
+You can read about some of my Web3 experiments and reflections on my [blog](https://naiky.vercel.app/web3).  
+In my spare time, I'm [**diving into Large Language Model Agents**](https://rdi.berkeley.edu/llm-agents/f24).
 
 ## 🗣️ Presentations and Publications
 
@@ -36,5 +23,5 @@ Read about some of my contributions to the Web3 ecosystem on my [Blog](https://n
 - **3** oral contributions at international scientific conferences.
 
 ## 🎯 Achievements
-- [**1** **patent**](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2024033744&_cid=P12-M5QLKW-67125-1).
-- **Founder** of [MatTwins](https://sites.google.com/view/matwins/home), an initiative focused on leveraging surrogate machine learning models to reduce computational complexity in molecular and materials modeling simulations, aiming to revolutionize the discovery and design of new materials for sustainable industry.
+- 🧠 Inventor on [1 patent](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2024033744&_cid=P12-M5QLKW-67125-1) in the field of digital twins for advanced chemical sensors.
+- 👨‍🔬 Founder of [MatTwins](https://sites.google.com/view/matwins/home) — a project applying ML surrogates to materials discovery for sustainable innovation.
