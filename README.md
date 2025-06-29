@@ -19,7 +19,7 @@ In my spare time, I'm [**diving into Large Language Model Agents**](https://rdi.
 
 ## 🗣️ Presentations and Publications
 
-- [**8** articles in peer-reviewed journals](https://scholar.google.com/citations?user=SsTwaqEAAAAJ&hl=en&oi=ao).
+- [**9** articles in peer-reviewed journals](https://scholar.google.com/citations?user=SsTwaqEAAAAJ&hl=en&oi=ao).
 - **3** oral contributions at international scientific conferences.
 
 ## 🎯 Achievements
