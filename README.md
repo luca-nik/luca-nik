@@ -13,7 +13,7 @@ I come from a scientific background: from early experiments frying molecules wit
 After years in academia, I became fascinated by the potential of blockchain technology.
 
 At [Urani.trade](https://github.com/urani-trade), I explored routing algorithms for optimal trade execution and intent-based systems to protect users from toxic MEV.
-- [here are a few things I wrote with Team Agents](https://www.urani.trade/blog).
+- [Here](https://www.urani.trade/blog) are a few things I wrote with Team Agents.
 - You can read about some of my Web3 experiments and reflections on my [blog](https://naiky.vercel.app/web3).  
 
 
