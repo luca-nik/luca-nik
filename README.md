@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-I'm Luca — a Research Scientist at [CryptoEconLab](https://cryptoeconlab.com/)
+I'm Luca: Research Scientist at [CryptoEconLab](https://cryptoeconlab.com/)
 
 I hold a PhD in Theoretical & Computational Chemistry and a background in Engineering Physics.
 
@@ -10,7 +10,7 @@ Previously, I worked as an [MEV Scientist Engineer](https://www.urani.trade/blog
 
 I come from a scientific background: from early experiments frying molecules with ultrafast lasers to getting hyped seeing hundreds of CPUs grinding Quantum Mechanical simulations. 
 
-After years in academia, I got hooked by the potential of blockchain technology.
+After years in academia, I became fascinated by the potential of blockchain technology.
 
 At [Urani.trade](https://github.com/urani-trade), I explored routing algorithms for optimal trade execution and intent-based systems to protect users from toxic MEV — [here are a few things I wrote with Team Agents](https://www.urani.trade/blog).
 
