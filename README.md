@@ -24,4 +24,4 @@ At [Urani.trade](https://github.com/urani-trade), I explored routing algorithms 
 
 ## 🎯 Achievements
 - 🧠 Inventor on [1 patent](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2024033744&_cid=P12-M5QLKW-67125-1) in the field of digital twins for advanced chemical sensors.
-- 👨‍🔬 Founder of [MatTwins](https://sites.google.com/view/matwins/home) — a project applying ML surrogates to materials discovery for sustainable innovation.
+- 👨‍🔬 Founder of [MatTwins](https://sites.google.com/view/matwins/home): a project applying ML surrogates to materials discovery for sustainable innovation.
