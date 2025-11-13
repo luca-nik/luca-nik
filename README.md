@@ -19,7 +19,7 @@ At [Urani.trade](https://github.com/urani-trade), I explored routing algorithms 
 
 ## 🗣️ Presentations and Publications
 
-- [**9** articles in peer-reviewed journals](https://scholar.google.com/citations?user=SsTwaqEAAAAJ&hl=en&oi=ao).
+- [**10** articles in peer-reviewed journals](https://scholar.google.com/citations?user=SsTwaqEAAAAJ&hl=en&oi=ao).
 - **3** oral contributions at international scientific conferences.
 
 ## 🎯 Achievements
