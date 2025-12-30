@@ -2,7 +2,7 @@
 
 I’m a **cryptoeconomist** and **research scientist** at [CryptoEconLab](https://cryptoeconlab.com/), working at the intersection of **mechanism design**, **protocol simulations**, and **incentive engineering** for decentralized systems. I have a background in **theoretical & computational chemistry (PhD)** and **Physics Engineering**.
 
-Before CEL, I worked as an MEV Scientist Engineer at [Urani.trade](https://github.com/urani-trade), building intent-based routing and MEV-aware execution systems.
+Before CEL, I worked as an MEV Scientist Engineer at [Urani.trade](https://github.com/urani-trade), building intent matching, routing algorithms and toxic MEV reduction solutions.
 
 I’m also the **founder of [MatTwins](https://sites.google.com/view/matwins/home)**: a project applying ML surrogates to materials discovery for sustainable innovation.
 
