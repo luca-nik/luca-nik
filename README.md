@@ -4,7 +4,7 @@ I’m a **cryptoeconomist** and **research scientist** at [CryptoEconLab](https:
 
 Before CEL, I worked as an MEV Scientist Engineer at [Urani.trade](https://github.com/urani-trade), building intent matching, routing algorithms and toxic MEV reduction solutions.
 
-I’m also the **founder of [MatTwins](https://sites.google.com/view/matwins/home)**: a project applying ML surrogates to materials discovery for sustainable innovation.
+I’m also the **founder of [MatTwins](https://sites.google.com/view/matwins/home)**: a research project applying ML surrogates to materials discovery for sustainable innovation.
 
 ---
 
