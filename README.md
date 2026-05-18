@@ -1,4 +1,4 @@
-## Luca | Cryptoeconomist & Research Scientist
+## Luca · Cryptoeconomist & Research Scientist
 
 Research Scientist at [CryptoEconLab](https://cryptoeconlab.com/), working on mechanism design, protocol simulations, and incentive engineering for decentralized systems.
 
