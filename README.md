@@ -1,13 +1,13 @@
 ## Luca · Cryptoeconomist & Research Scientist
 
-Research Scientist at [CryptoEconLab](https://cryptoeconlab.com/), working on mechanism design, protocol simulations, and incentive engineering for decentralized systems.
+🔬 Research Scientist at [CryptoEconLab](https://cryptoeconlab.com/)  
 
-My work spans tokenomics, coordination mechanisms, and game-theoretic analysis of on-chain systems.
+🧩 Mechanism design · Protocol simulations · Incentive engineering  
 
-PhD in Theoretical & Computational Chemistry · Physics Engineering background
+⚡ Previously MEV Research Engineer at [Urani.trade](https://github.com/urani-trade)  
 
-Previously MEV Scientist Engineer at [Urani.trade](https://github.com/urani-trade), focused on intent matching, routing algorithms, and MEV mitigation.
+🎓 PhD in Theoretical & Computational Chemistry · Physics Engineering  
 
-Founder of [MatTwins](https://sites.google.com/view/matwins/home): ML surrogates for materials discovery
+🧪 Founder of [MatTwins](https://sites.google.com/view/matwins/home) · ML surrogate models for materials discovery  
 
-Mountaineering instructor
+🏔️ Mountaineering instructor in my free time
