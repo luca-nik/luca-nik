@@ -4,7 +4,7 @@
 
 🧩 Mechanism design · Protocol simulations · Incentive engineering  
 
-⚡ Previously MEV Research Engineer at [Urani.trade](https://github.com/urani-trade)  
+⚡ Previously MEV Scientist Engineer at [Urani.trade](https://github.com/urani-trade)  
 
 🎓 PhD in Theoretical & Computational Chemistry · Physics Engineering  
 
