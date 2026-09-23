@@ -1,10 +1,12 @@
 ## Luca · Cryptoeconomist & Research Scientist
 
-🔬 Research Scientist at [CryptoEconLab](https://cryptoeconlab.com/)  
+🔬 Currently building cybersecurity agents at [Sunny Goes](https://github.com/Sunny-Goes)
 
 🧩 Mechanism design · Protocol simulations · Incentive engineering  
 
-⚡ Previously MEV Scientist Engineer at [Urani.trade](https://github.com/urani-trade)  
+⚡ Previously: 
+              - Research Scientist at [CryptoEconLab](https://cryptoeconlab.com/)  
+              - MEV Scientist Engineer at [Urani.trade](https://github.com/urani-trade)  
 
 🎓 PhD in Theoretical & Computational Chemistry · Physics Engineering  
 
